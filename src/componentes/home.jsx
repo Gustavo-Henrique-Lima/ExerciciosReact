@@ -1,9 +1,9 @@
-import React from 'react';
+import {React} from 'react';
 import Menu from './menu';
-
 
 function Home()
 {
+    document.title="Página Inicial";
     return(
         <>
             <div className="bg-slate-800 h-screen">

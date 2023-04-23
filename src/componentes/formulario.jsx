@@ -3,7 +3,7 @@ import Menu from './menu';
 
 function Formulario()
 {
-
+    document.title="Formulário";
     return(<>
          <div className="bg-slate-800 h-screen">
                 <Menu/>

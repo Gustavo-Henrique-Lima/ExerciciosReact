@@ -3,7 +3,7 @@ import Menu from './menu';
 
 function Login()
 {
-
+    document.title="Login";
     return(<>
         <div className="bg-slate-800 h-screen">
                 <Menu/>
